@@ -1,0 +1,23 @@
+{
+  "name": "krane-storage",
+  "description": "Default backend storage for Krane framework",
+  "version": "0.1.0",
+  "dependencies": {
+    "config": "^3.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/invercity/krane-storage.git"
+  },
+  "readme": "https://github.com/invercity/krane-storage/README.md",
+  "scripts": {
+    "lint": "eslint src"
+  }
+}
