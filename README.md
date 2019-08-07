@@ -1,4 +1,4 @@
-#krane-storage
+# krane-storage
 
 [![Build Status](https://travis-ci.org/invercity/krane-storage.svg?branch=master)](https://travis-ci.org/invercity/kleo-app)
 
